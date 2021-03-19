@@ -1,0 +1,118 @@
+Geca Chatbot.............
+
+How May I Help You?
+Are you a?
+1) NewUser
+2) ExistingUser
+display the two option here in the chatbot when we start the conversation.
+
+if the user enter as a newUser. the chatbot ask the further question to user.
+Question like......
+
+1) Please share yor emailId  2)Enter your Name Please :-> Wow great name it is...  3) (name) Can you give me a birthdate?  4) Enter your Education.
+5) Enter your University Name   6)please share your address..
+
+when filling this deatils bot give the two option to user can you save this data or erase it.
+1) save :-> when he save the data.... this information added to the database... here are student database. and two table the newUser and existingUser.Save to the newUser.
+2)Erase:- It will clear the deatils about the User afther the further Conversation.
+
+if the user is ExistingUser....
+1) Please share your Enrollment number:- BE18S05F009 :- base on matches for the emailId and enrollement chatbot fetches the information from the exsiting table.. and use all related information in the conversation.
+
+Now next the......
+chabot say.....
+
+Welcome to Geca......  I am Geca Bot power By the Geca Official...
+here we can provide the two option..... Conversation with text... or Conversation with speech?
+1) Text
+2) Speech
+base on user activity chatbot start the conversation......
+
+Now the our chatbot is exactly providing the some functionality base on our Project....
+
+here first off all we provided the all functionality option....base on user convienient he will choose the option..
+
+our Functionality ..... Provided in this project.....
+1) How can I Help you?
+
+1) College Help Desk.  2) College Details.. 3) CollegeEvent and Commitee 4) Student Section 5) Department Details  6)Training and Plecement Cell.  7) ExamCell
+8) Hostel Details
+
+this will be our main intents and we will elaborate this intenet with some questionaries....
+
+Intent+++++++++++++++++++++++++++++++++++++++++++++++
+
+1) College Help Desk.......
+1) College Admission     2) Scholership  3)Request for Bonifide and Identity Card.  4) Request for Loan Quotation 
+we only add the questionaries about college admission and scholership and bonafide identity card ... further base on our timing we can elaborate more points..
+
+2) College Details.......
+1) What makes this College Special?
+2)What is this College Proud Of?
+2)How many Undergraduate and PostGraduate Student attend?
+3)what is the average class size of introductory courses?
+4)How offen are teaching assistant used?
+5) Do you have an honor College?
+5) Who is the college principle?
+6) which is the College rank?
+7)what does the honor college offer?
+8)which Courses College offer?
+9) When the Library is open?
+10) Where is the TPO CELL.
+11) where is the college auditorium.
+
+all the basic questionaries we add to thi intent......
+
+2) Department Details.....
+1) Department name?
+2) HOD for the particular Department?
+3) Department Activity?
+Department Labs and classes?
+
+base on choosing a department bot will give the answer.....
+
+3) College Event and Commitee.....
+1) When the wings event start?
+2) Sport event?
+3) when was the compsa week?
+4) what are the Competitions?
+5) how many students are participated?
+and we can add the schedule ablout the particular event and timing?
+ex.. Timing for the drone compition?
+
+Now we build some basic bot but if we add this function it will be more appriciable bot.
+
+
+4) Training and Placement Cell?
+1) who is the Tpo?
+2) opening and closing time for TPO Cell?
+3) What percentage of Placement done every Year?
+4) which most company are coming in this college?
+5) How many percentage student of particular department place?
+6) highest package offer by this college?
+
+5) Exam cell....
+1) what is the tentivaly date for class test first?
+2) what is the date for summer / winter exam?
+3) time table for the exam for particular department:--- download the timetable..
+4) Result date of exam?
+5) Rechecking paper date?
+6) Re-Exam date?
+
+6) Hostel Activity..
+1) How many hostel in this college?
+2) how many hostel for the girls?
+3) how many hostel for the boys?
+4) name of the hostel?
+5) total intake for the student to get enroll for the hostel?
+6) what is the fee for hostel?
+7) which type of mess?
+8) how many Rs paid for the mess?
+9) who is the warden of hostel?
+10) who is the  rector of hostel?
+11) when the hostel admission open?
+12) what is the marks cutoff to get enrolled for hostel?
+
+
+
+
